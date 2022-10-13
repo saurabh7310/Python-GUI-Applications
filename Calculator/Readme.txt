@@ -1,4 +1,4 @@
-Steps to Run the GUI calculator
+# Steps to Run the GUI calculator
 
 1- Create a folder in your local system.
 2- Create a file with the extension of .py.
